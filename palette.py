@@ -5,7 +5,7 @@ from PIL import ImageFont
 from PIL import ImageDraw
 import time
 
-orig_images = ['flatui.png','kite.jpg', 'smaller.jpg', 'google-logo.jpg']
+orig_images = ['google-logo.jpg']
 img_Dir = "images/"
 numColors = 5
 
